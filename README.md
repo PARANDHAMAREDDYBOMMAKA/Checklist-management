@@ -33,20 +33,20 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
 
-   \`\`\`bash
+   \`\`\`
    git clone <repository-url>
    cd <repository-folder>
    \`\`\`
 
 2. Install dependencies:
 
-   \`\`\`bash
+   \`\`\`
    npm install
    \`\`\`
 
 3. Start the development server:
 
-   \`\`\`bash
+   \`\`\`
    npm run dev
    \`\`\`
 
@@ -65,18 +65,18 @@ This project is deployed on [Vercel](https://vercel.com/). To deploy your own ve
 
 1. Install the Vercel CLI:
 
-   \`\`\`bash
+   \`\`\`
    npm install -g vercel
    \`\`\`
 
 2. Link your project to a Vercel account:
 
-   \`\`\`bash
+   \`\`\`
    vercel link
    \`\`\`
 
 3. Deploy the project:
 
-   \`\`\`bash
+   \`\`\`
    vercel
    \`\`\`
