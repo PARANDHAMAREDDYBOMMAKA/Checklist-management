@@ -1,5 +1,4 @@
-# Writing the README content directly to the file
-echo "# NX MUI Testing - CP Checklist
+# NX MUI Testing - CP Checklist
 
 This project is a React-based application built with Vite. It allows users to manage activities and sub-activities with weights, units, and names. The application ensures that the total weight percentage of all activities equals 100% before saving.
 
